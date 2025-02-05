@@ -1,19 +1,21 @@
 ### Hi there 👋,I'm weitong.
 
-- 🔭 **start起来！**
-- 🌱 主修医学工程
-    - **Ceph**、GlusterFS 、Hadoop HDFS 、Lustre ...
-    - **Redis**、 MongoDB、Cassandra、HBase ...
-    - **TiDB**、CockroachDB、TDSQL ...
-    - **MySQL**、PostgreSQL、Elasticsearch、**ClickHouse** ...
-- 🐐 Algorithm  (Algorithmic )
-- 🔫 Network Programming  (Network Programming )
-    - **Network Protocols**
-    - Socket Programming
-    - **Network Security**
-    - Multithreading and Concurrency
-    - Distributed Systems
-    - **Load Balancing and Proxy Servers**
+- 🔭 **学习永无止境！**
+- 🌱 主要涉及领域
+    - **医学** 人体解剖、 医学影像、 内窥镜、 肺部肿瘤分割  
+    - **嵌入式** STM32 Cortex-M4微控制器项目开发、 瑞芯微、 NVIDIA、 FreeRTOS 
+- 🐐 开发技能
+    - **QT** Qt Widgets、 Qt Quick(QML界面设计、 C++ 与 QML集成、 国际化与本地化 Qt Linguist)、  图形与多媒体 ...
+    - **linux** 内核更改、底层驱动、移植和裁剪优化、环境变量、文件操作、系统调试、系统性能分析 ...
+    - **协议** RS232、I2C、USB、UASRT/UART、SPI ...
+    - **硬件** 电路原理图、数据手册；示波器万用表、静电测试仪 ...
+- 🔫 Programming
+    - **C**
+    - 单片机驱动编程
+    - 应用编程
+    - **C++**
+    - 多线程
+    - **Python**
 - 💬 Ask me about anything related to c/c++
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=zhanhuipinggit&show_icons=true&theme=transparent) -->
